@@ -1,0 +1,1124 @@
+{
+  "brand": {
+    "name": "Pellory Ceramics",
+    "handle": "@pellory.studio",
+    "founder": "June Avery",
+    "town": "Quarry Bend",
+    "email": "hello@example.com",
+    "phone": "(555) 0142",
+    "positioning": "Wheel-thrown stoneware for the kitchen shelf, made by the river in Quarry Bend.",
+    "origin": "Before June Avery threw her first pot in a rented garage, she surveyed land for a living. She still keeps her old field notebook beside the wheel.",
+    "profile_bio": "Stoneware mugs, bowls and planters. Online & at Saturday market. Six wheels on Thursday nights.",
+    "glazes": [
+      "Slate Run",
+      "Ferry Blue",
+      "Rust Bank",
+      "Oat Milk"
+    ],
+    "audiences": [
+      {
+        "name": "The Thursday beginner",
+        "description": "Lives close enough to come after work and wants to know what happens when the clay wobbles."
+      },
+      {
+        "name": "The everyday collector",
+        "description": "Buys one good mug at a time. Looks for handle fit, glaze in daylight and a piece worth reaching for."
+      },
+      {
+        "name": "The market regular",
+        "description": "Knows June's stall by sight and wants a quiet heads-up when a new batch leaves the kiln."
+      }
+    ]
+  },
+  "intro": {
+    "eyebrow": "Social media plan · Instagram · 30 days",
+    "headline": [
+      "Thirty days of Instagram",
+      "for a one-woman pottery studio."
+    ],
+    "deck": "June, I'd start with the story only you can tell: how a surveyor ended up at a wheel in a rented garage. Over the next month, we'll use it to fill Thursday wheel classes, open the December kiln drop and build your newsletter list.",
+    "period": "Day 1 to Day 30",
+    "calendar_note": "Day 1 starts on Monday. A Story goes up every day, including feed days. Friday, Day 26 is the December kiln-opening drop. The pillar shares guide the feed mix, rounded to a whole post."
+  },
+  "voice": {
+    "traits": [
+      {
+        "name": "Observant",
+        "sounds_like": "Ferry Blue pools darker where the handle meets the cup.",
+        "not_like": "You'll love this stunning color."
+      },
+      {
+        "name": "Plainspoken",
+        "sounds_like": "I pushed too hard and the rim folded. Here's the second try.",
+        "not_like": "Every piece is a flawless expression of craft."
+      },
+      {
+        "name": "Neighborly",
+        "sounds_like": "Come as you are. I'll have a towel by your wheel.",
+        "not_like": "Secure your spot at our exclusive experience."
+      },
+      {
+        "name": "Specific to this place",
+        "sounds_like": "Rust Bank is the color the river leaves on the ferry steps.",
+        "not_like": "Inspired by the beauty of nature."
+      }
+    ],
+    "words_use": [
+      "rim",
+      "river light",
+      "slip",
+      "shelf",
+      "first try"
+    ],
+    "words_avoid": [
+      "exclusive",
+      "perfect",
+      "must-have",
+      "luxury"
+    ],
+    "emoji_rule": "Use at most one when it adds meaning. Keep hooks, dates and directions in words.",
+    "caption_formula": "Open on one detail or question. Give it a short scene and a reason to care. End with one next step."
+  },
+  "pillars": [
+    {
+      "id": "wheel",
+      "name": "From the wheel",
+      "purpose": "Show what June's hands do between a lump of clay and the kiln shelf.",
+      "share": 30,
+      "formats": [
+        "Reel",
+        "Carousel",
+        "Stories only"
+      ],
+      "ideas": [
+        "A wire under a wet cup",
+        "Four glaze tiles in river light"
+      ],
+      "color": "#a74930",
+      "art": "wheel"
+    },
+    {
+      "id": "june",
+      "name": "June's story",
+      "purpose": "Connect the surveyor's eye for a line with the potter's feel for a rim.",
+      "share": 25,
+      "formats": [
+        "Reel",
+        "Carousel",
+        "Stories only"
+      ],
+      "ideas": [
+        "Field book beside the wheel",
+        "The first shelf in the garage"
+      ],
+      "color": "#49677a",
+      "art": "map"
+    },
+    {
+      "id": "daily",
+      "name": "Live with it",
+      "purpose": "Help people picture where the pots fit into the day they already have.",
+      "share": 25,
+      "formats": [
+        "Reel",
+        "Carousel",
+        "Single image",
+        "Stories only"
+      ],
+      "ideas": [
+        "Coffee before the kettle clicks off",
+        "A planter on a narrow sill"
+      ],
+      "color": "#6a764a",
+      "art": "cup"
+    },
+    {
+      "id": "class",
+      "name": "Come make one",
+      "purpose": "Make the first class and the Saturday stall feel easy to walk into.",
+      "share": 20,
+      "formats": [
+        "Reel",
+        "Carousel",
+        "Single image",
+        "Stories only"
+      ],
+      "ideas": [
+        "A first pull with wet hands",
+        "What to bring on Thursday"
+      ],
+      "color": "#865266",
+      "art": "bowl"
+    }
+  ],
+  "calendar": [
+    {
+      "day": 1,
+      "weekday": "Mon",
+      "pillar": "june",
+      "format": "Reel",
+      "title": "From field notes to clay",
+      "goal": "newsletter",
+      "story": "Share the field book margin beside the first mug.",
+      "reel_id": "field"
+    },
+    {
+      "day": 2,
+      "weekday": "Tue",
+      "pillar": "wheel",
+      "format": "Reel",
+      "title": "Find the middle",
+      "goal": "awareness",
+      "story": "Add a close-up of the wobble at half speed.",
+      "reel_id": "center"
+    },
+    {
+      "day": 3,
+      "weekday": "Wed",
+      "pillar": "wheel",
+      "format": "Carousel",
+      "title": "Four glazes, one river",
+      "goal": "drop",
+      "story": "Ask which glaze viewers would put by the kettle.",
+      "carousel_id": "glazes"
+    },
+    {
+      "day": 4,
+      "weekday": "Thu",
+      "pillar": "class",
+      "format": "Reel",
+      "title": "Your first Thursday",
+      "goal": "classes",
+      "story": "Show the door and the towel by the first wheel.",
+      "reel_id": "class"
+    },
+    {
+      "day": 5,
+      "weekday": "Fri",
+      "pillar": "wheel",
+      "format": "Stories only",
+      "title": "A shelf at leather-hard",
+      "goal": "awareness",
+      "story": "Pan the drying shelf and explain why the pots are covered."
+    },
+    {
+      "day": 6,
+      "weekday": "Sat",
+      "pillar": "class",
+      "format": "Single image",
+      "title": "At the Saturday stall",
+      "goal": "awareness",
+      "story": "Show where the stall sits in the market row."
+    },
+    {
+      "day": 7,
+      "weekday": "Sun",
+      "pillar": "june",
+      "format": "Stories only",
+      "title": "Sunday field note",
+      "goal": "newsletter",
+      "story": "Read a short note about the garage from this week's email."
+    },
+    {
+      "day": 8,
+      "weekday": "Mon",
+      "pillar": "wheel",
+      "format": "Reel",
+      "title": "Under the cup",
+      "goal": "awareness",
+      "story": "Show the spiral of trimmings in the tray.",
+      "reel_id": "trim"
+    },
+    {
+      "day": 9,
+      "weekday": "Tue",
+      "pillar": "daily",
+      "format": "Reel",
+      "title": "Three ways to hold a mug",
+      "goal": "awareness",
+      "story": "Show a side view of each handle grip.",
+      "reel_id": "handles"
+    },
+    {
+      "day": 10,
+      "weekday": "Wed",
+      "pillar": "june",
+      "format": "Carousel",
+      "title": "Garage shelf to kiln shelf",
+      "goal": "newsletter",
+      "story": "Share the first sketch of the garage shelf."
+    },
+    {
+      "day": 11,
+      "weekday": "Thu",
+      "pillar": "class",
+      "format": "Carousel",
+      "title": "Before your first wheel class",
+      "goal": "classes",
+      "story": "Use a question box for first-class nerves.",
+      "carousel_id": "first-class"
+    },
+    {
+      "day": 12,
+      "weekday": "Fri",
+      "pillar": "wheel",
+      "format": "Stories only",
+      "title": "What the kiln sounds like",
+      "goal": "awareness",
+      "story": "Record room tone beside the closed kiln."
+    },
+    {
+      "day": 13,
+      "weekday": "Sat",
+      "pillar": "daily",
+      "format": "Reel",
+      "title": "A market bowl comes home",
+      "goal": "drop",
+      "story": "Film the bowl beside a loaf on the counter."
+    },
+    {
+      "day": 14,
+      "weekday": "Sun",
+      "pillar": "june",
+      "format": "Stories only",
+      "title": "What I'd tell garage June",
+      "goal": "newsletter",
+      "story": "Share one line from the next newsletter draft."
+    },
+    {
+      "day": 15,
+      "weekday": "Mon",
+      "pillar": "wheel",
+      "format": "Reel",
+      "title": "Where Ferry Blue stops",
+      "goal": "drop",
+      "story": "Show the waxed foot before the glaze dip."
+    },
+    {
+      "day": 16,
+      "weekday": "Tue",
+      "pillar": "june",
+      "format": "Reel",
+      "title": "How I still use a field book",
+      "goal": "newsletter",
+      "story": "Show the same notebook open to a page of glaze notes."
+    },
+    {
+      "day": 17,
+      "weekday": "Wed",
+      "pillar": "daily",
+      "format": "Carousel",
+      "title": "How a planter fits a narrow sill",
+      "goal": "drop",
+      "story": "Show the inside base and drainage hole."
+    },
+    {
+      "day": 18,
+      "weekday": "Thu",
+      "pillar": "class",
+      "format": "Reel",
+      "title": "When the wall caves in",
+      "goal": "classes",
+      "story": "Show how June helps bring a collapsed wall back down."
+    },
+    {
+      "day": 19,
+      "weekday": "Fri",
+      "pillar": "wheel",
+      "format": "Stories only",
+      "title": "Glaze tiles in river light",
+      "goal": "drop",
+      "story": "Show the same tiles by the window and under the bench light."
+    },
+    {
+      "day": 20,
+      "weekday": "Sat",
+      "pillar": "daily",
+      "format": "Single image",
+      "title": "Soup in Slate Run",
+      "goal": "drop",
+      "story": "Show the bowl held in both hands in the kitchen."
+    },
+    {
+      "day": 21,
+      "weekday": "Sun",
+      "pillar": "class",
+      "format": "Stories only",
+      "title": "Ask about Thursday",
+      "goal": "classes",
+      "story": "Answer one beginner question in a text frame."
+    },
+    {
+      "day": 22,
+      "weekday": "Mon",
+      "pillar": "wheel",
+      "format": "Carousel",
+      "title": "What happens while the kiln cools",
+      "goal": "drop",
+      "story": "Show the kiln door from across the quiet room."
+    },
+    {
+      "day": 23,
+      "weekday": "Tue",
+      "pillar": "june",
+      "format": "Reel",
+      "title": "The line I still look for",
+      "goal": "newsletter",
+      "story": "Trace the profile of a mug over an old contour sketch."
+    },
+    {
+      "day": 24,
+      "weekday": "Wed",
+      "pillar": "wheel",
+      "format": "Stories only",
+      "title": "Kiln countdown: day one",
+      "goal": "drop",
+      "story": "Publish countdown frames 1 to 3."
+    },
+    {
+      "day": 25,
+      "weekday": "Thu",
+      "pillar": "class",
+      "format": "Stories only",
+      "title": "Kiln countdown: meet at the shelf",
+      "goal": "drop",
+      "story": "Publish countdown frames 4 and 5."
+    },
+    {
+      "day": 26,
+      "weekday": "Fri",
+      "pillar": "wheel",
+      "format": "Reel",
+      "title": "The December kiln opens at 6 p.m.",
+      "goal": "drop",
+      "story": "Publish countdown frames 6 and 7 at the 6 p.m. local opening.",
+      "reel_id": "opening"
+    },
+    {
+      "day": 27,
+      "weekday": "Sat",
+      "pillar": "daily",
+      "format": "Carousel",
+      "title": "What came out of the kiln",
+      "goal": "drop",
+      "story": "Show the shelf in daylight and point to the shop.",
+      "carousel_id": "shelf"
+    },
+    {
+      "day": 28,
+      "weekday": "Sun",
+      "pillar": "wheel",
+      "format": "Stories only",
+      "title": "Packing table close-up",
+      "goal": "drop",
+      "story": "Show how a mug is wrapped for shipping."
+    },
+    {
+      "day": 29,
+      "weekday": "Mon",
+      "pillar": "june",
+      "format": "Reel",
+      "title": "One page from the next letter",
+      "goal": "newsletter",
+      "story": "Read a paragraph about the empty kiln shelf."
+    },
+    {
+      "day": 30,
+      "weekday": "Tue",
+      "pillar": "class",
+      "format": "Stories only",
+      "title": "One last question about the wheel",
+      "goal": "classes",
+      "story": "Invite a reply about what would make a first class easier."
+    }
+  ],
+  "reels": [
+    {
+      "id": "field",
+      "title": "From field notes to clay",
+      "pillar": "june",
+      "length_s": 23,
+      "hook": "A map taught me to throw pots.",
+      "hook_type": "Contrarian",
+      "audio": "Voiceover over original pencil and wheel sound.",
+      "cover_text": "From field notes to clay",
+      "shots": [
+        {
+          "start_s": 0,
+          "end_s": 3,
+          "description": "Macro. A pencil follows a contour on June's old field sketch.",
+          "on_screen_text": "A map taught me to throw pots.",
+          "vo": "A map taught me to throw pots.",
+          "edit_note": "Put the hook on frame one. Hold the pencil scrape.",
+          "art": "map"
+        },
+        {
+          "start_s": 3,
+          "end_s": 9,
+          "description": "Medium side shot. June opens the garage door and sets the notebook down.",
+          "on_screen_text": "My first studio was a rented garage.",
+          "vo": "I rented a garage with a door that stuck in the rain.",
+          "edit_note": "Cut on the rattle of the door.",
+          "art": "kiln"
+        },
+        {
+          "start_s": 9,
+          "end_s": 16,
+          "description": "Close profile. A thumb follows the rim of a wet cup.",
+          "on_screen_text": "Now I follow the rim.",
+          "vo": "On a map, I watched for a line that broke. A wet rim tells you the same thing.",
+          "edit_note": "Match the curve of the pencil line to the lip.",
+          "art": "wheel"
+        },
+        {
+          "start_s": 16,
+          "end_s": 23,
+          "description": "Overhead. The glazed mug rests beside the open notebook.",
+          "on_screen_text": "Notes from the studio",
+          "vo": "I still write down what the clay did. Those notes are what I send in my letters.",
+          "edit_note": "Let the final card sit through the last line.",
+          "art": "cup"
+        }
+      ],
+      "caption_id": "cap-field"
+    },
+    {
+      "id": "center",
+      "title": "Find the middle",
+      "pillar": "wheel",
+      "length_s": 20,
+      "hook": "Watch the wobble go quiet.",
+      "hook_type": "Watch this",
+      "audio": "Original wheel hum and water. Recorded voiceover on two shots.",
+      "cover_text": "Find the middle",
+      "shots": [
+        {
+          "start_s": 0,
+          "end_s": 3,
+          "description": "Overhead. The off-center lump circles the middle of the wheel head.",
+          "on_screen_text": "Watch the wobble go quiet.",
+          "vo": "",
+          "edit_note": "Open on the wobble with the wheel already moving.",
+          "art": "wheel"
+        },
+        {
+          "start_s": 3,
+          "end_s": 8,
+          "description": "Tight side shot. June braces her elbows and cups both hands around the clay.",
+          "on_screen_text": "Elbows in",
+          "vo": "I brace my elbows so my hands have somewhere to push from.",
+          "edit_note": "Keep both elbows and the wheel head in frame.",
+          "art": "hands"
+        },
+        {
+          "start_s": 8,
+          "end_s": 14,
+          "description": "Macro. Slippery clay rises into a cone and comes back down.",
+          "on_screen_text": "Up, then down",
+          "vo": "Up once, down slow. Feel for the bump under your palm.",
+          "edit_note": "Play at real speed and keep the wet sound.",
+          "art": "glaze"
+        },
+        {
+          "start_s": 14,
+          "end_s": 20,
+          "description": "Repeat the opening overhead angle. The clay spins without shifting.",
+          "on_screen_text": "There it is.",
+          "vo": "",
+          "edit_note": "Hold on a full turn before cutting.",
+          "art": "wheel"
+        }
+      ],
+      "caption_id": "cap-center"
+    },
+    {
+      "id": "class",
+      "title": "Your first Thursday",
+      "pillar": "class",
+      "length_s": 24,
+      "hook": "What if it wobbles?",
+      "hook_type": "Question",
+      "audio": "June's voiceover with original studio sound between phrases.",
+      "cover_text": "Your first Thursday",
+      "shots": [
+        {
+          "start_s": 0,
+          "end_s": 3,
+          "description": "Close over June's shoulder. A soft rim leans as the wheel turns.",
+          "on_screen_text": "What if it wobbles?",
+          "vo": "What if it wobbles?",
+          "edit_note": "Start with the leaning rim and keep it in view.",
+          "art": "wheel"
+        },
+        {
+          "start_s": 3,
+          "end_s": 9,
+          "description": "Wide from the doorway. Six wheels have towels on their stools.",
+          "on_screen_text": "Six wheels on Thursday",
+          "vo": "I've got six wheels and a towel for every one.",
+          "edit_note": "Hold long enough to see the room layout.",
+          "art": "kiln"
+        },
+        {
+          "start_s": 9,
+          "end_s": 16,
+          "description": "Tight on June's hands. She braces, slows the wheel and shows where to press.",
+          "on_screen_text": "Slow the wheel",
+          "vo": "If your clay starts to lean, I'll show you where to put your hands.",
+          "edit_note": "Keep June's fingertips centered.",
+          "art": "hands"
+        },
+        {
+          "start_s": 16,
+          "end_s": 24,
+          "description": "Counter-height. A still-wet bowl sits on a board with room around it.",
+          "on_screen_text": "Book a Thursday seat",
+          "vo": "We'll give your bowl a board and let it dry here.",
+          "edit_note": "Let the wheel hum fade under the booking line.",
+          "art": "bowl"
+        }
+      ],
+      "caption_id": "cap-class"
+    },
+    {
+      "id": "trim",
+      "title": "Under the cup",
+      "pillar": "wheel",
+      "length_s": 19,
+      "hook": "This mug is upside down for a reason.",
+      "hook_type": "Process reveal",
+      "audio": "Original scrape of the trimming tool plus a short voiceover.",
+      "cover_text": "Under the cup",
+      "shots": [
+        {
+          "start_s": 0,
+          "end_s": 3,
+          "description": "Side close-up. The leather-hard mug is upside down on the wheel.",
+          "on_screen_text": "This mug is upside down for a reason.",
+          "vo": "",
+          "edit_note": "Open with the handle pointing toward frame left.",
+          "art": "cup"
+        },
+        {
+          "start_s": 3,
+          "end_s": 8,
+          "description": "Macro. A loop tool lifts a ribbon from the base.",
+          "on_screen_text": "Cut the foot",
+          "vo": "I'm cutting a foot so the cup sits flat on your table.",
+          "edit_note": "Hold through the first long ribbon.",
+          "art": "wheel"
+        },
+        {
+          "start_s": 8,
+          "end_s": 14,
+          "description": "Overhead. June clears away the ribbons and traces the foot ring.",
+          "on_screen_text": "Clear the edge",
+          "vo": "The clay's firm enough to peel now. Yesterday it would have smeared.",
+          "edit_note": "Cut on the sweep of a finger.",
+          "art": "hands"
+        },
+        {
+          "start_s": 14,
+          "end_s": 19,
+          "description": "Eye level with the tabletop. June sets the mug down.",
+          "on_screen_text": "Listen to the base.",
+          "vo": "",
+          "edit_note": "Leave the table tap alone for the last beat.",
+          "art": "cup"
+        }
+      ],
+      "caption_id": "cap-trim"
+    },
+    {
+      "id": "handles",
+      "title": "Three ways to hold a mug",
+      "pillar": "daily",
+      "length_s": 22,
+      "hook": "Three grips. Same mug.",
+      "hook_type": "List",
+      "audio": "Original kettle and counter sounds. Voiceover names each grip.",
+      "cover_text": "Three ways to hold it",
+      "shots": [
+        {
+          "start_s": 0,
+          "end_s": 3,
+          "description": "Counter height. Three quick cuts show the same mug changing grips.",
+          "on_screen_text": "Three grips. Same mug.",
+          "vo": "",
+          "edit_note": "Keep the cuts on soft taps from the counter.",
+          "art": "cup"
+        },
+        {
+          "start_s": 3,
+          "end_s": 7,
+          "description": "Side profile. Two fingers slip through the handle.",
+          "on_screen_text": "Two fingers through",
+          "vo": "Two fingers through, for walking back to the desk.",
+          "edit_note": "Keep the whole handle visible.",
+          "art": "cup"
+        },
+        {
+          "start_s": 7,
+          "end_s": 12,
+          "description": "Close-up. The thumb rests where handle and rim nearly meet.",
+          "on_screen_text": "Thumb on top",
+          "vo": "Thumb on top, for tipping out the last cold sip.",
+          "edit_note": "Cut as the cup tilts.",
+          "art": "hands"
+        },
+        {
+          "start_s": 12,
+          "end_s": 17,
+          "description": "Medium close. Both palms wrap around the mug.",
+          "on_screen_text": "Both hands around",
+          "vo": "Both hands around, for the kitchen before the heat kicks in.",
+          "edit_note": "Let the kettle hiss fill the gap.",
+          "art": "cup"
+        },
+        {
+          "start_s": 17,
+          "end_s": 22,
+          "description": "Still. The mug sits beside a folded tea towel.",
+          "on_screen_text": "Which grip is yours?",
+          "vo": "Which grip is yours?",
+          "edit_note": "Leave the end card clear of the handle.",
+          "art": "glaze"
+        }
+      ],
+      "caption_id": "cap-handles"
+    },
+    {
+      "id": "opening",
+      "title": "The December kiln opens",
+      "pillar": "wheel",
+      "length_s": 24,
+      "hook": "POV: the kiln is finally cool.",
+      "hook_type": "POV",
+      "audio": "Original latch click and shelf sounds. Voiceover after the reveal.",
+      "cover_text": "December kiln opening",
+      "shots": [
+        {
+          "start_s": 0,
+          "end_s": 3,
+          "description": "Tight at eye level. June lifts the latch of the cooled kiln.",
+          "on_screen_text": "POV: the kiln is finally cool.",
+          "vo": "",
+          "edit_note": "Put the hook on the first frame and leave the latch click audible.",
+          "art": "kiln"
+        },
+        {
+          "start_s": 3,
+          "end_s": 9,
+          "description": "View from behind June's shoulder. Open on the shelves, then pause.",
+          "on_screen_text": "First look",
+          "vo": "I look for the blue first. It runs dark where the handles join.",
+          "edit_note": "Wait a beat before cutting closer.",
+          "art": "cup"
+        },
+        {
+          "start_s": 9,
+          "end_s": 16,
+          "description": "Macro. Angled light traces Rust Bank and Slate Run on two rims.",
+          "on_screen_text": "Color at the rim",
+          "vo": "Rust Bank goes almost brick red at the edge. Slate Run is gray as wet stone.",
+          "edit_note": "Use window light and cut between the two rims.",
+          "art": "glaze"
+        },
+        {
+          "start_s": 16,
+          "end_s": 24,
+          "description": "Wide shot. June puts a mug, bowl and planter in a row by the window.",
+          "on_screen_text": "The December shop drop is open",
+          "vo": "The December batch is on the shop shelf now.",
+          "edit_note": "End on the full group and hold the shop direction.",
+          "art": "bowl"
+        }
+      ],
+      "caption_id": "cap-opening"
+    }
+  ],
+  "captions": [
+    {
+      "id": "cap-field",
+      "first_line": "A map taught me to throw pots.",
+      "body": "A map taught me to throw pots.\n\nBefore I had a wheel, I carried a field book through wet grass. In my rented garage I used the same book to write down how far a rim dropped when I pulled too hard.\n\nNow the book sits beside the splash pan. It smells faintly of clay, and half the pencil marks have a thumbprint through them.\n\nJoin the studio newsletter through the link in bio for the next page from my field book.",
+      "hashtags": [
+        "#wheelthrown",
+        "#potterystudio",
+        "#quarrybendmakers"
+      ],
+      "alt_text": "Pencil contour lines curve across June's field notebook beside a blue stoneware mug. Cover text reads From field notes to clay."
+    },
+    {
+      "id": "cap-center",
+      "first_line": "Watch the wobble go quiet.",
+      "body": "Watch the wobble go quiet.\n\nWet clay keeps tapping your palm until it's centered. I can usually hear the wheel settle at about the same moment I feel that tap stop.\n\nThe thing I tell beginners is to brace their elbows before they add pressure. That tiny change makes the wheel feel a lot less bossy.\n\nSave this for the next time your clay won't sit still.",
+      "hashtags": [
+        "#potteryprocess",
+        "#claycentering",
+        "#quarrybendmakers"
+      ],
+      "alt_text": "An overhead view shows a mound of clay centered on the wheel head. Cover text reads Find the middle."
+    },
+    {
+      "id": "cap-class",
+      "first_line": "What if it wobbles?",
+      "body": "What if it wobbles?\n\nThe first sound you'll hear is the splash pan rattling a bit as the wheel gets going. The clay might lean. Mine leaned for weeks.\n\nThursday nights have six seats. I'll show you how to brace your hands and help you get your clay back to the middle when it wanders.\n\nBook a Thursday wheel class through the link in bio.",
+      "hashtags": [
+        "#beginnerpottery",
+        "#wheelclass",
+        "#quarrybendmakers"
+      ],
+      "alt_text": "A white towel rests by the wheel and a small wet bowl sits on a board. Cover text reads Your first Thursday."
+    },
+    {
+      "id": "cap-trim",
+      "first_line": "This mug is upside down for a reason.",
+      "body": "This mug is upside down for a reason.\n\nThe best noise in the garage is the one a leather-hard cup makes when a loop tool catches just enough clay. It comes off in a ribbon, the way cold butter curls.\n\nI trim a shallow foot so a mug has a clean place to meet the table. It's the part you'll see when you tip up the last sip.\n\nSave this if you want to look for the foot on your own cup.",
+      "hashtags": [
+        "#potterytrimming",
+        "#stonewaremug",
+        "#quarrybendmakers"
+      ],
+      "alt_text": "An upside-down clay mug sits on a wheel head with a ribbon of trimming beside it. Cover text reads Under the cup."
+    },
+    {
+      "id": "cap-handles",
+      "first_line": "Three grips. Same mug.",
+      "body": "Three grips. Same mug.\n\nWhen I pull a handle, I try it with damp hands. That's how I find the spot where a thumb actually wants to rest.\n\nThis Ferry Blue mug has a wide bend above the join. I leave a little extra room there for a second finger.\n\nTell me which grip you'd use on a cold morning.",
+      "hashtags": [
+        "#handmademug",
+        "#stoneware",
+        "#quarrybendmakers"
+      ],
+      "alt_text": "A blue mug is seen from the side, with the handle clear against a folded oatmeal-colored towel. Cover text reads Three ways to hold it."
+    },
+    {
+      "id": "cap-opening",
+      "first_line": "POV: the kiln is finally cool.",
+      "body": "POV: the kiln is finally cool.\n\nThe kiln's cool enough to open, and the flat gray on the test tile has turned into the color of the banks after rain. The Ferry Blue is darkest where the handles join. That's the line I look for first.\n\nI've set the mugs, bowls and planters by the window to check the rims and feet one more time.\n\nShop the December kiln-opening batch through the link in bio.",
+      "hashtags": [
+        "#kilnopening",
+        "#wheelthrownstoneware",
+        "#quarrybendmakers"
+      ],
+      "alt_text": "The open kiln reveals shelves of stoneware, including Ferry Blue mugs and a shallow rust-colored bowl. Cover text reads December kiln opening."
+    },
+    {
+      "id": "cap-glazes",
+      "first_line": "Ferry Blue came from the shadow under a ferry.",
+      "body": "Ferry Blue came from the shadow under a ferry.\n\nI take the glaze tiles to my window before I name them. Slate Run looks like wet stone. Rust Bank looks like the line you can see on the steps after the river goes down. Oat Milk has the little specks I kept losing under the bench light.\n\nSave this color guide for the December kiln opening.",
+      "hashtags": [
+        "#ceramicglaze",
+        "#stonewarepottery",
+        "#quarrybendmakers"
+      ],
+      "alt_text": "Six illustrated slides show river contours and four glazes: gray Slate Run, Ferry Blue, brick Rust Bank and speckled cream Oat Milk. The last slide gives the Day 26 drop date."
+    },
+    {
+      "id": "cap-first-class",
+      "first_line": "Your first bowl can lean a little.",
+      "body": "Your first bowl can lean a little.\n\nWear something that'll wash. There's a towel by each wheel. I'll show you where to put your elbows and how to open the clay with your thumb.\n\nWhen we're done, the bowl stays with me to dry. I'll explain firing and pickup before you head back out to the river road.\n\nBook one of the six Thursday seats through the link in bio.",
+      "hashtags": [
+        "#wheelthrowingclass",
+        "#beginnerpottery",
+        "#quarrybendmakers"
+      ],
+      "alt_text": "Six illustrated slides show a first Thursday wheel class, from clothes and centering through drying and pickup, ending with instructions to book."
+    },
+    {
+      "id": "cap-shelf",
+      "first_line": "Here's what made it to the window shelf.",
+      "body": "Here's what made it to the window shelf.\n\nI line up the finished pots in the window before I pack them. That's where I spotted the darker blue at the mug handles and the thin red line where the glaze breaks on the planters.\n\nThere's a shallow Slate Run bowl in the batch that feels especially good in both hands.\n\nSee the December kiln-opening collection through the shop link in bio.",
+      "hashtags": [
+        "#kilnopening",
+        "#functionalpottery",
+        "#quarrybendmakers"
+      ],
+      "alt_text": "Five illustrated slides show the kiln, a Ferry Blue mug, a Slate Run bowl and a Rust Bank planter, followed by a shop direction."
+    }
+  ],
+  "carousels": [
+    {
+      "id": "glazes",
+      "title": "Four glazes, one river",
+      "pillar": "wheel",
+      "caption_id": "cap-glazes",
+      "slides": [
+        {
+          "title": "Four glazes, one river",
+          "body": "A color guide from June's Quarry Bend bench.",
+          "visual": "River contours in the lower corner. Keep the headline in open paper.",
+          "art": "map",
+          "tone": "oat"
+        },
+        {
+          "title": "Slate Run",
+          "body": "Gray like the flat stones that shine when the river drops.",
+          "visual": "Set a charcoal bowl low against slate, with a pale rim line.",
+          "art": "bowl",
+          "tone": "slate"
+        },
+        {
+          "title": "Ferry Blue",
+          "body": "Clear blue at the lip, deep as the ferry shadow near a handle.",
+          "visual": "Place a blue mug to the right. Draw a darker glaze line at the handle.",
+          "art": "cup",
+          "tone": "blue"
+        },
+        {
+          "title": "Rust Bank",
+          "body": "A brick-colored edge, like the silt left on the ferry steps.",
+          "visual": "Crop the bowl rim wide and let rust fill the foot of the slide.",
+          "art": "bowl",
+          "tone": "rust"
+        },
+        {
+          "title": "Oat Milk",
+          "body": "A warm cream with little specks that show up in window light.",
+          "visual": "Use a cream vessel with small brown flecks. Leave space above.",
+          "art": "cup",
+          "tone": "oat"
+        },
+        {
+          "title": "See the batch on Day 26",
+          "body": "The December kiln-opening pieces go online Friday.",
+          "visual": "Set glaze marks under the date like test swatches on the bench.",
+          "art": "glaze",
+          "tone": "moss"
+        }
+      ]
+    },
+    {
+      "id": "first-class",
+      "title": "Before your first wheel class",
+      "pillar": "class",
+      "caption_id": "cap-first-class",
+      "slides": [
+        {
+          "title": "Never touched a wheel?",
+          "body": "Here's what happens on a Thursday with June.",
+          "visual": "Draw wheel rings cropped at the bottom. Set the question high.",
+          "art": "wheel",
+          "tone": "rust"
+        },
+        {
+          "title": "Come in clothes that can get muddy",
+          "body": "I'll put a towel by your stool. Short nails make the first pull easier.",
+          "visual": "Set a handprint above a clean patch for the copy.",
+          "art": "hands",
+          "tone": "oat"
+        },
+        {
+          "title": "Start with a lump",
+          "body": "We press it into the middle, slow the wheel and open it with a thumb.",
+          "visual": "Show wheel rings with a clay mound centered low.",
+          "art": "wheel",
+          "tone": "slate"
+        },
+        {
+          "title": "Let a bowl happen",
+          "body": "I'll show you how to lift the wall. Lopsided is fine.",
+          "visual": "Use a slightly uneven bowl silhouette.",
+          "art": "bowl",
+          "tone": "blue"
+        },
+        {
+          "title": "Leave it on a board",
+          "body": "I'll tell you how drying, firing and pickup work before you head out.",
+          "visual": "Place a warm clay bowl above a line that reads as a drying board.",
+          "art": "bowl",
+          "tone": "oat"
+        },
+        {
+          "title": "Find your Thursday",
+          "body": "Six seats at the studio. Book through the link in bio.",
+          "visual": "Set the booking line above a plain row of stool marks.",
+          "art": "hands",
+          "tone": "moss"
+        }
+      ]
+    },
+    {
+      "id": "shelf",
+      "title": "What came out of the kiln",
+      "pillar": "daily",
+      "caption_id": "cap-shelf",
+      "slides": [
+        {
+          "title": "On the December shelf",
+          "body": "Mugs, bowls and planters from the kiln opening.",
+          "visual": "Open with the kiln arch underneath the headline.",
+          "art": "kiln",
+          "tone": "slate"
+        },
+        {
+          "title": "A mug for the cold window",
+          "body": "Ferry Blue runs dark around the handle join.",
+          "visual": "Use a tall mug with a darker wash at the handle.",
+          "art": "cup",
+          "tone": "blue"
+        },
+        {
+          "title": "A bowl held in both hands",
+          "body": "Slate Run is deepest where the curve turns in.",
+          "visual": "Use a wide low bowl, with the darkest tone inside.",
+          "art": "bowl",
+          "tone": "oat"
+        },
+        {
+          "title": "Room for a windowsill herb",
+          "body": "The Rust Bank planter is glazed down to a bare clay foot.",
+          "visual": "Set a planter over a terracotta baseline.",
+          "art": "planter",
+          "tone": "rust"
+        },
+        {
+          "title": "Find it in the shop",
+          "body": "The December kiln-opening collection is in the link in bio.",
+          "visual": "Stack simple glaze swatches below the shop line.",
+          "art": "glaze",
+          "tone": "moss"
+        }
+      ]
+    }
+  ],
+  "stories": {
+    "title": "From the closed lid to the shop shelf",
+    "period": "Day 24 to Day 26",
+    "frames": [
+      {
+        "day": 24,
+        "type": "photo-style",
+        "text": "The kiln is cooling. I can hear the room again.",
+        "sticker": [
+          "June's studio · Quarry Bend"
+        ],
+        "art": "kiln",
+        "tone": "slate"
+      },
+      {
+        "day": 24,
+        "type": "poll",
+        "text": "Which piece should I put by the window first?",
+        "sticker": [
+          "Pick a piece",
+          "The Ferry Blue mug",
+          "The Slate Run bowl"
+        ],
+        "art": "cup",
+        "tone": "blue"
+      },
+      {
+        "day": 24,
+        "type": "quiz",
+        "text": "Guess what leaves that clean ring under the glaze.",
+        "sticker": [
+          "What keeps the glaze off the foot?",
+          "Wax resist (correct)",
+          "An extra dip"
+        ],
+        "art": "wheel",
+        "tone": "rust"
+      },
+      {
+        "day": 25,
+        "type": "question box",
+        "text": "What do you want to see when I open the kiln?",
+        "sticker": [
+          "Ask June",
+          "Type a question…"
+        ],
+        "art": "kiln",
+        "tone": "moss"
+      },
+      {
+        "day": 25,
+        "type": "countdown sticker",
+        "text": "Tomorrow, the December batch comes out.",
+        "sticker": [
+          "December kiln opening",
+          "Friday · Day 26 · 6 p.m. local"
+        ],
+        "art": "map",
+        "tone": "slate"
+      },
+      {
+        "day": 26,
+        "type": "slider",
+        "text": "Ferry Blue came out dark at the handles. How blue is your shelf?",
+        "sticker": [
+          "A little blue",
+          "All the blue"
+        ],
+        "art": "cup",
+        "tone": "blue"
+      },
+      {
+        "day": 26,
+        "type": "link sticker",
+        "text": "The mugs, bowls and planters are on the shop shelf.",
+        "sticker": [
+          "Shop the December batch",
+          "Destination: shop collection"
+        ],
+        "art": "bowl",
+        "tone": "rust"
+      }
+    ]
+  },
+  "measurement": {
+    "note": "No results here. This is a plan; the numbers are targets and test thresholds, not outcomes.",
+    "goals": [
+      {
+        "name": "Class sign-ups",
+        "metrics": "Story booking sticker taps, booking page visits, confirmed reservations.",
+        "source": "Tag bio and Story links separately. Count confirmed seats in the booking export once per reservation."
+      },
+      {
+        "name": "December drop",
+        "metrics": "Shop sticker taps, collection visits, completed orders from Instagram.",
+        "source": "Use separate tags for bio and Stories. Record tagged orders from the shop, alongside total orders for context."
+      },
+      {
+        "name": "Newsletter sign-ups",
+        "metrics": "Newsletter page visits and confirmed subscriptions.",
+        "source": "Use a dedicated newsletter link tag and count confirmed opt-ins in the email platform."
+      },
+      {
+        "name": "Awareness",
+        "metrics": "Reach, saves and shares per reach, profile visits.",
+        "source": "Log post insights after an equal reporting window. Divide saves and shares separately by reach where reach is available."
+      }
+    ],
+    "review": [
+      "Log each post's goal, pillar, format and link tag so it can be compared with posts doing the same job.",
+      "Check that bio links and Story stickers still land on the intended pages before the next scheduled post.",
+      "Reconcile booking, shop and email exports. Mark missing attribution as unknown.",
+      "Read replies for recurring questions. Turn one into next week's Story and note why it made the list."
+    ],
+    "tests": [
+      {
+        "name": "Reel opening line",
+        "hypothesis": "A sensory instruction keeps people watching longer than a direct question.",
+        "how": "Cut two versions of Find the middle with the same footage, runtime, cover and caption. Change only the opening line: ‘Watch the wobble go quiet’ vs ‘Can you spot the wobble?’ Run them in matched posting slots away from launch week.",
+        "compare": "Compare the share of viewers still watching at the same early point, with the same time since publication.",
+        "decision": "Test thresholds: at least 200 plays per version and a 5 percentage point lead. If either threshold is missed, keep the original and repeat. Treat the comparison as directional."
+      },
+      {
+        "name": "Carousel cover wording",
+        "hypothesis": "A beginner question earns more saves per reach than a class description.",
+        "how": "Use the same first-class deck with a question cover and a statement cover in matched slots. Hold the layout, caption and booking direction steady.",
+        "compare": "Compare saves per reach at the same post age. Use booking taps as context.",
+        "decision": "Test thresholds: at least 200 reached per version and a 20% relative lift in saves per reach. If either threshold is missed or the baseline is zero, repeat."
+      },
+      {
+        "name": "Lunch vs evening Stories",
+        "hypothesis": "Evening is an easier time for locals to tap a class booking link.",
+        "how": "Show the same booking Story at lunch and in the early evening on comparable days. Alternate which time goes first across matched weeks, outside the drop.",
+        "compare": "Compare sticker taps per frame reach for each time after the Story expires.",
+        "decision": "Test thresholds: at least 100 reached per time slot in total and a 15% relative lift. If either threshold is missed or the baseline is zero, keep both slots in rotation and repeat."
+      }
+    ]
+  }
+}
